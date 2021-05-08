@@ -1,0 +1,21 @@
+{
+  "name": "react-cayman",
+  "version": "1.0.0",
+  "description": "The popular Cayman theme as a React component",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliav2/react-gh-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eliav2/react-gh-pages/issues"
+  },
+  "homepage": "https://github.com/Eliav2/react-gh-pages#readme"
+}
