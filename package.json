@@ -2,20 +2,47 @@
   "name": "react-cayman",
   "version": "1.0.0",
   "description": "The popular Cayman theme as a React component",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "example": "example"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eliav2/react-gh-pages.git"
   },
+  "dependencies": {
+    "highlight.js": "^10.7.2",
+    "html-react-parser": "^1.2.6",
+    "markdown-it": "^12.0.6",
+    "react": "^17.0.2"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eliav2/react-gh-pages/issues"
+    "url": "https://github.com/Eliav2/react-cayman/issues"
   },
-  "homepage": "https://github.com/Eliav2/react-gh-pages#readme"
+  "homepage": "https://github.com/Eliav2/react-cayman#readme",
+  "prettier": {
+    "printWidth": 120,
+    "jsxBracketSameLine": true,
+    "singleQuote": true,
+    "tabWidth": 2
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "cayman",
+    "theme",
+    "github-pages"
+  ],
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "react-dom": "^17.0.2",
+    "style-loader": "^2.0.0",
+    "typescript": "^4.2.4"
+  },
+  "files": ["lib"]
 }
