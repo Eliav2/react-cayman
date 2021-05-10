@@ -5,6 +5,8 @@
 [![issues](https://img.shields.io/github/issues/Eliav2/react-cayman)](https://github.com/Eliav2/react-cayman/issues)
 [![licence](https://img.shields.io/npm/l/react-cayman)](https://github.com/Eliav2/react-cayman/blob/master/LICENSE)
 
+![image](https://user-images.githubusercontent.com/47307889/117636186-415a3980-b189-11eb-84c8-d273e92bd3f1.png)
+
 The popular [cayman theme](https://github.com/jasonlong/cayman-theme) implemented as a React component!
 
 ## installation
@@ -94,7 +96,7 @@ sandbox: <https://codesandbox.io/s/github/Eliav2/react-cayman/tree/master/exampl
 
 # Why
 
-Cayman theme for GitHub Pages is implemented with Jekyll which uses Liquid and other dependencies which relies on Ruby
+Cayman theme for GitHub Pages is implemented with Jekyll which uses Liquid and other dependencies which rely on Ruby
 on rails, so you can't just simply import it into React project. this component is refactored, so you could simply
 import it into React project, and it uses the original cayman theme styles.
 
