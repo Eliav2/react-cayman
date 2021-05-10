@@ -90,7 +90,7 @@ export default App;
 
 this demo (at this repo at [./example](./example)) will create cayman page
 for [this repo](https://github.com/Eliav2/how-react-hooks-work). note that this is a React component. code
-sandbox: <https://codesandbox.io/s/github/Eliav2/react-cayman/tree/main/example>
+sandbox: <https://codesandbox.io/s/github/Eliav2/react-cayman/tree/master/example>
 
 # Why
 
