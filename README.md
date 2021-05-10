@@ -95,14 +95,14 @@ sandbox: <https://codesandbox.io/s/github/Eliav2/react-cayman/tree/master/exampl
 # Why
 
 Cayman theme for GitHub Pages is implemented with Jekyll which uses Liquid and other dependencies which relies on Ruby
-on rails and not Node. this component is refactored, so you could simply 'react import' it, and it uses the original
-cayman theme styles.
+on rails, so you can't just simply import it into React project. this component is refactored, so you could simply
+import it into React project, and it uses the original cayman theme styles.
 
 # Props
 
 - **repoName**[string] - the main header.
-- **repoDescription**[string] - description under the main header. 
-- **repoUrl**[string] - url to the button under the header. 
+- **repoDescription**[string] - description under the main header.
+- **repoUrl**[string] - url to the button under the header.
 - **repoOwner**[string] - url for owner used in the footer.
 - **markdown**[boolean] - markdown mode or plain html mode?
 - **showHeader**[boolean] - show the header?
